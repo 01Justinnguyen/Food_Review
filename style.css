@@ -42,6 +42,7 @@ h1, h2, h3, h4, h5, h6{
     height: 54.5px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     background-color: #fff; 
+    z-index: 999;
 }
 
 .header__content{   
